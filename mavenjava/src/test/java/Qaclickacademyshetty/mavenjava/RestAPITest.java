@@ -8,7 +8,7 @@ public class RestAPITest
 	public void postJira()
 	{
 		System.out.println("postJira");
-		System.out.println("postJira1");
+		System. out.println("postJira1");
 		System.out.println("postJira2");
 	}
 	
@@ -16,6 +16,8 @@ public class RestAPITest
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter1");
+		System.out.println("deleteTwitter2");
 	}
 
 }
